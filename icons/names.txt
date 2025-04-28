@@ -1,0 +1,17 @@
+Icons
+The application looks for the following .png icon files inside the icons/ directory. Please provide these icons for the best user experience. Standard fallback icons will be used if files are missing.
+
+new_note.png
+new_snippet.png
+save.png
+delete.png
+copy.png (for Snippet Editor)
+bold.png
+italic.png
+underline.png
+align_left.png
+align_center.png
+align_right.png
+color.png
+links.png (for Note Editor's Insert/Edit Link button)
+
