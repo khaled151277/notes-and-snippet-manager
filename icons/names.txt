@@ -14,4 +14,5 @@ align_center.png
 align_right.png
 color.png
 links.png (for Note Editor's Insert/Edit Link button)
-
+donate.png
+clear_filter.png
